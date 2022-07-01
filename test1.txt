@@ -1,0 +1,1 @@
+https://lms.usz.ch/pages/personalarea.jsf?menuId=-1&locale=de-DE&showbundlekeys=false#!/users/@self/contents/current?limit=10000000000000000
