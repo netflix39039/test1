@@ -2,3 +2,5 @@ https://lms.usz.ch/pages/personalarea.jsf?menuId=-1&locale=de-DE&showbundlekeys=
 
 Password=Haha@123
 API_Key=AbcsayAYgbhcsbhbhBAhdbhbahbdhbsbhabhdbHABhbhbhhh
+
+text: yousign_api_key = "7ha6c3bfc3372361ea797ce7e419da0f";  apikey: 7ha6c3bfc3372361ea797ce7e419da0f
